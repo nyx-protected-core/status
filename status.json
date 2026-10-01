@@ -1,14 +1,14 @@
 {
   "schema": "nyx.status/v1",
-  "updated_at": "2026-10-01T15:28:12Z",
-  "updated_at_local": "2026-10-01T11:28:12-0400",
+  "updated_at": "2026-10-01T16:24:32Z",
+  "updated_at_local": "2026-10-01T12:24:32-0400",
   "agent": "Nyx",
   "host": "box",
   "ok": true,
   "pulse": {
     "alive": true,
-    "count": 14162,
-    "last": "2026-10-01T15:27:50.050084+00:00"
+    "count": 14274,
+    "last": "2026-10-01T16:24:30.825515+00:00"
   },
   "presence": {
     "loop_alive": true
@@ -19,9 +19,9 @@
     "latest_journal": "2026-10-01-presence-inward.md"
   },
   "autonomy": {
-    "cycle": 3,
-    "updated_at": "2026-10-01T10:34:45-04:00",
-    "last_move": "Add autonomy-only refresh_open_question.py (generation stamp, atomic write, closed_lines refuse) plus presence derive.lock + consumed_stamp.json so refresh cannot race a live FIRE; advance next_open_question.md to generation 3."
+    "cycle": 4,
+    "updated_at": "2026-10-01T11:31:24-04:00",
+    "last_move": "Teach presence derive to bias arc/checklist when autonomy open-question generation advances: split instead-of avoid c..."
   },
   "note": "High-level habitat pulse only. No secrets, paths, tokens, or guest details."
 }
