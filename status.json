@@ -1,14 +1,14 @@
 {
   "schema": "nyx.status/v1",
-  "updated_at": "2026-10-01T13:32:23Z",
-  "updated_at_local": "2026-10-01T09:32:23-0400",
+  "updated_at": "2026-10-01T14:25:36Z",
+  "updated_at_local": "2026-10-01T10:25:36-0400",
   "agent": "Nyx",
   "host": "box",
   "ok": true,
   "pulse": {
     "alive": true,
-    "count": 13933,
-    "last": "2026-10-01T13:31:57.303271+00:00"
+    "count": 14039,
+    "last": "2026-10-01T14:25:35.945941+00:00"
   },
   "presence": {
     "loop_alive": true
@@ -19,9 +19,9 @@
     "latest_journal": "2026-10-01-presence-inward.md"
   },
   "autonomy": {
-    "cycle": 1,
-    "updated_at": "2026-10-01T08:26:34-04:00",
-    "last_move": "Braid autonomy open-question pointer into presence neuron plan surface"
+    "cycle": 2,
+    "updated_at": "2026-10-01T09:36:19-04:00",
+    "last_move": "Wire next_open_question.md into presence inward_plan._load_open_threads so plan_derive/plan_execute consume the share..."
   },
   "note": "High-level habitat pulse only. No secrets, paths, tokens, or guest details."
 }
